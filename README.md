@@ -17,12 +17,12 @@ Este projeto foi desenvolvido para praticar conhecimentos em HTML, CSS e JavaScr
 ## 🛠️ Tecnologias Utilizadas
 
 ### Front-end
-- **HTML5**: Criação da estrutura semântica da página.
-  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
-- **CSS3**: Estilização responsiva e customizada, incluindo o uso de classes para alternância de temas.
-  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
-- **JavaScript**: Manipulação do DOM, reprodução de áudio e troca dinâmica de estilos.
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+- **HTML5**: Criação da estrutura semântica da página.  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
+- **CSS3**: Estilização responsiva e customizada, incluindo o uso de classes para alternância de temas.  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
+- **JavaScript**: Manipulação do DOM, reprodução de áudio e troca dinâmica de estilos.  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
 
 ### Recursos Adicionais
 - **Imagens**: Biblioteca de imagens e ícones fornecidos pelo projeto e customizados conforme necessário.
