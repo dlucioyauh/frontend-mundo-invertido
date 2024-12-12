@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mundo Invertido | Semana Front-end</title>
     <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
   </head>
   <body class="light-theme">
     <header>
@@ -121,25 +122,6 @@
 
     <audio id="music" src="assets/musics/normal-world.mpeg" autoplay></audio>
 
-    <script>
-      window.addEventListener('click', function() {
-        const audio = document.getElementById('music');
-        audio.play();
-        audio.volume = 0.2;
-      })
-
-      function switchTheme() {
-        document.body.classList.toggle('dark-theme');
-        document.body.classList.toggle('light-theme');
-
-        const theme = document.body.classList[0];
-        const music = theme === 'light-theme' ? 'normal-world.mpeg' : 'inverted-world.mpeg'
-
-        const audio = document.getElementById('music');
-        audio.src = `assets/musics/${music}`;
-        audio.play();
-        audio.volume = 0.2;
-      }
-    </script>
+    <script src="assets/js/script.js"></script>
   </body>
 </html>
